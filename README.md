@@ -1,16 +1,41 @@
-# React + Vite
+# 🚀 Ishaan Sen — Personal Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Interactive personal developer portfolio showcasing full-stack engineering, autonomous AI agent systems, computer vision projects, and cloud integrations.
 
-Currently, two official plugins are available:
+[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://react.dev)
+[![Vite](https://img.shields.io/badge/Vite-Fast%20Bundler-646CFF?logo=vite&logoColor=white)](https://vitejs.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-Backend-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Highlights
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Dynamic Project Showcase**: Interactive gallery of AI platforms, full-stack applications, and systems programming tools.
+- **Live Metrics & Activity**: Contribution analytics and technical expertise display.
+- **Sleek Aesthetic**: Tailored dark mode palette, smooth scroll transitions, and accessible UI hierarchy.
+- **Cloud Backend**: Integrated with Firebase Firestore for dynamic telemetry and messaging.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Frontend**: React, Vite, Tailwind CSS, Lucide Icons
+- **Backend / Database**: Firebase Firestore
+- **Deployment**: Vercel / Cloudflare Pages
+
+---
+
+## 🚀 Local Development
+
+```bash
+git clone https://github.com/IshaanYK/ishaan-developer-portfolio.git
+cd ishaan-developer-portfolio
+npm install
+npm run dev
+```
+
+---
+
+## 📄 License
+MIT License. Created & maintained by [IshaanYK](https://github.com/IshaanYK).
